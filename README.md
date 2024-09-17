@@ -1,7 +1,1 @@
-# perhaps!
-
-## ...hello?
-
-### hm, ok...
-
-#### ...Goodbye, world.
+# Jo's Portfolio
