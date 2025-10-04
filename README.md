@@ -1,1 +1,4 @@
-# Jo's Sketches Site
+# Creative Portfolio
+## Artist: gzko
+
+
