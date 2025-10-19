@@ -16,6 +16,8 @@ a.w3-button:hover {
 
 body {
     font-family: "Raleway", Arial, sans-serif;
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
 }
 
 .w3-row img {
